@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>rent.jpg</file>
+        <file>logo.png</file>
+        <file>resized.png</file>
+    </qresource>
+</RCC>
